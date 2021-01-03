@@ -1,0 +1,27 @@
+.Chocolate img{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+}
+
+.Chocolate h1 {
+    margin: 3rem;
+}
+.Chocolate-link{
+    padding: 0.5em 0;
+    width: 10em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+}
+
+.Chocolate-link a {
+    color:palegreen;
+    background-color: blue;
+    text-decoration: none;
+    padding: 0.5rem;
+    border-radius: 20px;
+    margin-top: 20px;
+}
